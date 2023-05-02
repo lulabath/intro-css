@@ -1,0 +1,40 @@
+.custom-body {
+    background-color: #a5d6a7;
+    margin: 0;
+}
+
+ul{
+    list-style: none;
+    padding: 10px;
+    
+    
+}
+li{
+    text-align: start;
+    width: 35%;
+    margin: auto;
+    background-color: white;
+    margin-bottom: 10px;
+    padding: 4px 40px;
+    border-radius: 15px;
+    border: 1px solid rgb(227, 227, 228);
+}
+
+.card-verduleria{
+    background-color: #f7f7fc;
+    width: 280px;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: rgba(0,0 ,0 , 0.35) 0px 5px 15px;
+    text-align: center;
+    padding: 10px 15px 30px;
+    font-family: 'Mulish', sans-serif;
+    margin-top: 150px;
+}
+
+.grosor-mayor{
+    font-weight: 500;
+}
+.grosor-menor{
+    font-weight: 200;
+}
